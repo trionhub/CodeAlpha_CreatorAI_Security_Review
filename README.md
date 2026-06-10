@@ -20,8 +20,6 @@ The application simulates common features found in modern creator platforms, inc
 * Python 3.14.5
 * Windows Command Prompt
 * Microsoft Word
-* GitHub
-* Manual Code Review
 
 ---
 
